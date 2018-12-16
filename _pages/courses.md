@@ -7,4 +7,4 @@ header:
   image: "/images/courses.jpg"
 ---
 
-COuesrs in Mills
+Courses in Mills
