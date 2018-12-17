@@ -5,4 +5,5 @@ header:
   image: "/images/scene2.jpg"
 ---
 
-Hao is a 
+<hr style="border: 2px solid black;">
+Hao is a

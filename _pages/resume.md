@@ -1,11 +1,13 @@
 ---
 layout: archive
+title: "Hao Yu"
 permalink: /resume/
 author_profile: true
 header:
   image: "/images/about.jpeg"
 ---
 
+<hr style="border: 2px solid black;">
 ## Education
 
 <div>
@@ -36,7 +38,9 @@ header:
   </div>
 </div>
 
+<hr style="border: 2px solid black;">
 ## Skills
+
 <div>
   <ul>
     <li>Operating Systems: Unix/Linux, Windows, Macintosh</li>
@@ -46,7 +50,7 @@ header:
   </ul>
 </div>
 
-
+<hr style="border: 2px solid black;">
 ## Experience
 
 <div>
@@ -68,14 +72,6 @@ header:
     </div>
 
     <div id="inner">
-      <h3>Math006 Discrete Math II</h3>
-      <span>Fall 2017</span>
-      <ul>
-          <li>Grading homework</li>            
-      </ul>
-    </div>
-
-    <div id="inner">
       <h3>Discrete Math and Data Structures</h3>
       <span>Fall 2018</span>
       <ul>
@@ -83,6 +79,14 @@ header:
          <li>Grading homework</li>
       </ul>
     </div>
+
+    <div id="inner">
+      <h3>Math006 Discrete Math II</h3>
+      <span>Fall 2017</span>
+      <ul>
+          <li>Grading homework</li>            
+      </ul>
+    </div>    
   </div>
 
   <div>
@@ -98,6 +102,7 @@ header:
   </div>
 </div>
 
+<hr style="border: 2px solid black;">
 ## Miscellaneous
 <div>
  <ul>
