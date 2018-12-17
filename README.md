@@ -1,3 +1,3 @@
 Personal portfolio website.
 
-Link at yuhao3570.github.io/portfolio
+Link at: https://yuhao3570.github.io/portfolio/
