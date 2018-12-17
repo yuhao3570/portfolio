@@ -6,4 +6,6 @@ header:
 ---
 
 <hr style="border: 2px solid black;">
-Hao is a
+I am current graduate student in Mills College MA. Interdisciplinary Computer Science program, starting from Fall 2018, I have been the only international student from China at his cohort.
+
+Expected graduating at May 2019, I aim to find a engineer job in data science.
