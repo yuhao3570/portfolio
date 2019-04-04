@@ -40,6 +40,7 @@ header:
 <hr style="border: 2px solid black;">
 
 ## Experience
+
 <div>
   <div>
     <h3>Teaching Assistant of Google Applied Machine Intensive (AMLI)</h3>
@@ -82,6 +83,7 @@ header:
 <hr style="border: 2px solid black;">
 
 ## Skills
+
 <div>
   <ul>
     <li>TensorFlow, Machine Learning algorithms</li>
