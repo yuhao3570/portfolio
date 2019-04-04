@@ -43,7 +43,7 @@ header:
 
 <div>
   <div>
-    <h3>Teaching Assistant of Google Applied Machine Intensive (AMLI)</h3>
+    <h3>Teaching Assistant of [Google Applied Machine Intensive](https://edu.google.com/computer-science/applied-computing-series/intensive.html) (AMLI)</h3>
     <span>AMLI is an intensive 10 weeks (40 hours per week) Bootcamp</span>
     <span>Feb. 2019 - Apr. 2019</span>
     <ul>
