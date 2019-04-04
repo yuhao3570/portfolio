@@ -57,30 +57,13 @@ header:
     <h3>Graduate Teaching Assistant / Peer Tutor</h3>
     <span>Mills College, Oakland, CA</span>
     <div id="inner">
-      <h3>CS125 / CS225 Theory of Algorithms</h3>
-      <span>Spring 2019</span>
       <ul>
           <li>Holding weekly office hour for student questions.</li>            
       </ul>
+      <span>Spring 2019 : CS125 / CS225 Theory of Algorithms</span>
+      <span>Fall 2018: Discrete Math and Data Structures</span>
+      <span>Fall 2017: Discrete Math II</span>  
     </div>
-
-    <div id="inner">
-      <h3>Discrete Math and Data Structures</h3>
-      <span>Fall 2018</span>
-      <ul>
-         <li>Holding weekly office hour for student questions.</li>
-         <li>Grading homework</li>
-      </ul>
-    </div>
-
-    <div id="inner">
-      <h3>Math006 Discrete Math II</h3>
-      <span>Fall 2017</span>
-      <ul>
-          <li>Grading homework</li>            
-      </ul>
-    </div>    
-  </div>
 
   <div>
     <h3>Lab Instructor of C++ Programming and Oracle Database</h3>
