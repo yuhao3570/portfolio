@@ -82,7 +82,6 @@ header:
 <hr style="border: 2px solid black;">
 
 ## Skills
-
 <div>
   <ul>
     <li>TensorFlow, Machine Learning algorithms</li>
