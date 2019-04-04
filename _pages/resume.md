@@ -15,17 +15,16 @@ header:
     <h3>Mills College</h3>
     <span>Oakland, CA</span>
     <ul>
-            <li>MA, Interdisciplinary Computer Science (Expected, May 2019)</li>
-            <li>Courses in progress: Discrete Math, Computer Architecture, Computer Graphics, iOS Development with Swift, Programming Language, Machine Learning, Data Visualization</li>
+            <li>MA, Interdisciplinary Computer Science (Expected, May 2019) GPA: 3.9/4.0</li>
+            <li>Coursework: Machine Learning, Intro to Data Analysis, Theory of Algorithms, Computer Graphics, iOS Development with Swift, Programming Languages, Discrete Math, Computer Architecture </li>
       </ul>
   </div>
 
   <div>
-    <h3>Northwestern Polytechnic University (NPU)</h3>
+    <h3>Northwestern Polytechnic University GPA: 4.0/4.0</h3>
     <span>Fremont, CA</span>
     <ul>
-            <li>Coursework towards MSCS</li>
-            <li>Courses completed: Data Structures and Algorithms, Computer Network, Unix/Linux Shell and Python Scripting, C++ programming, Java programming, Oracle Database administration (SQL), Web programming, SAS, Socket Programming in C</li>
+            <li>Coursework: Data Structures and Algorithms, Computer Network, Unix/Linux Shell and Python Scripting, Oracle Database administration (SQL), SAS, Socket Programming in C</li>
       </ul>
   </div>
 
@@ -39,30 +38,24 @@ header:
 </div>
 
 <hr style="border: 2px solid black;">
-## Skills
 
-<div>
-  <ul>
-    <li>Operating Systems: Unix/Linux, Windows, Macintosh</li>
-    <li>Coding (ordered by familiarity): Java, Python, SAS, C++, C, SQL, Swift, OpenGL</li>
-    <li>Development Tools: Eclipse, NetBeans, Bash, Git, PyCharm, SAS Studio</li>
-    <li>Language: Fluent in English, Mandarin</li>
-  </ul>
-</div>
-
-<hr style="border: 2px solid black;">
 ## Experience
-
 <div>
   <div>
     <h3>Teaching Assistant of Google Applied Machine Intensive (AMLI)</h3>
+    <span>AMLI is an intensive 10 weeks (40 hours per week) Bootcamp</span>
     <span>Feb. 2019 - Apr. 2019</span>
+    <ul>
+          <li>Co-design and TA for the AMLI pilot hosted by Google EngEDU division at Mills College</li>
+          <li>Revise coding exercises and lecture materials to meet students’ knowledge level and needs</li>
+          <li>Host daily office hours and help resolve student questions</li>
+          <li>Grade student submissions and provide feedback</li>
+    </ul>
   </div>
 
   <div>
-    <h3>Peer tutor / Teaching Assistant</h3>
+    <h3>Graduate Teaching Assistant / Peer Tutor</h3>
     <span>Mills College, Oakland, CA</span>
-
     <div id="inner">
       <h3>CS125 / CS225 Theory of Algorithms</h3>
       <span>Spring 2019</span>
@@ -103,12 +96,28 @@ header:
 </div>
 
 <hr style="border: 2px solid black;">
-## Miscellaneous
+
+## Skills
+
+<div>
+  <ul>
+    <li>TensorFlow, Machine Learning algorithms</li>
+    <li>Operating Systems: Unix/Linux, Windows, Macintosh</li>
+    <li>Coding: Python, Java, SAS, C++, C, SQL, Swift, OpenGL</li>
+    <li>Development Tools: Eclipse, NetBeans, Bash, Git, PyCharm, SAS Studio</li>
+    <li>Language: Fluent in English, Mandarin</li>
+  </ul>
+</div>
+
+<hr style="border: 2px solid black;">
+
+## Honors and Achievements
 <div>
  <ul>
   <li>SAS Certified Base Programmer for SAS 9</li>
-  <li>Mills College 2017 Hackathon winner</li>
+  <li>Mills College 2017 Hackathon winner (Project: FoodDrop App prototype)</li>
   <li>CASPA 2017 Annual Conference Volunteer</li>
+  <li>2017 Fremont 4th of July Parade Student Volunteer</li>
  </ul>
 </div>
 
