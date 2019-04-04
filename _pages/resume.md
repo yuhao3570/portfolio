@@ -58,11 +58,12 @@ header:
     <span>Mills College, Oakland, CA</span>
     <div id="inner">
       <ul>
-          <li>Holding weekly office hour for student questions.</li>            
+          <li>Holding weekly office hour for student questions.</li>
+          <li>Grade student submissions.</li>             
       </ul>
-      <span>Spring 2019 : CS125 / CS225 Theory of Algorithms</span>
-      <span>Fall 2018: Discrete Math and Data Structures</span>
-      <span>Fall 2017: Discrete Math II</span>  
+      <li>Spring 2019 : CS125 / CS225 Theory of Algorithms</li>
+      <li>Fall 2018: Discrete Math and Data Structures</li>
+      <li>Fall 2017: Discrete Math II</li>  
     </div>
 
   <div>
