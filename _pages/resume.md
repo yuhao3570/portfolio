@@ -94,7 +94,7 @@ header:
 
 <hr style="border: 2px solid black;">
 
-## Honors and Achievements
+<h2>Honors and Achievements</h2>
 <div>
  <ul>
   <li>SAS Certified Base Programmer for SAS 9</li>
@@ -103,6 +103,8 @@ header:
   <li>2017 Fremont 4th of July Parade Student Volunteer</li>
  </ul>
 </div>
+
+<hr style="border: 2px solid black;">
 
 
 <style>
